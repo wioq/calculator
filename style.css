@@ -1,0 +1,24 @@
+.first{
+    border: 5px solid black;
+    width: 200px;
+    margin: 0 auto;
+    background-color: steelblue;
+    border-radius: 3px;
+}
+#first{
+    width: 96%;
+    background-color: indigo ;
+    color: white;
+}
+.third{
+    width: 100%;
+    margin-top: 2px;
+    background-color: lightsteelblue ;
+}
+.second{
+    background-color: lightsteelblue;
+    width: 43px;
+    margin: 2px;
+    color: lime;
+    border-radius: 2px;
+}
